@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+
+.btn-color {
+    background-color: #333333; 
+    border-color: white;
+    color: rgb(150, 150, 150); 
+}
+.btn-color:hover{
+    background-color: #5a5959; 
+    
+}
+.grey{
+    color: gray;
+}
+.form-bg{
+    background-color: rgb(216, 213, 213);
+}
+.btn-text {
+    color: black;
+}
+
+h5 {
+    color: rgb(184, 184, 184);
+}
+
+div{
+    border-radius: 5px;
+}
