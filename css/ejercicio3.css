@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(201, 199, 199);
+}
+.logo{
+    width: 150px;
+}
+.nav1 {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.nav2{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px ;
+}
+.nav2 a {
+    color: white;
+}
+
+.azul{
+    background-color: #2980b9;
+}
+input::placeholder {
+    font-style: italic;
+}
+.user{
+    background-color: #216999;
+}
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
